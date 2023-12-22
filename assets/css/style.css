@@ -418,6 +418,9 @@ section {
   margin-bottom: 0;
 }
 
+.about #scroll{
+  overflow: auto;
+}
 
 /*--------------------------------------------------------------
 # Facts
